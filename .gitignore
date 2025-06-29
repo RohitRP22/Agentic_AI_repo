@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
+agentic_ai/
 
 # Virtual environments
 .venv
